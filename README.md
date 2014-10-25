@@ -1,10 +1,3 @@
-Package Control Messages
-========================
-
-MarkdownEditing:
----------------
-
-# MarkdownEditing
 
 ![MarkdownEditing][github]
 
