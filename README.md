@@ -1,5 +1,5 @@
 
-![MarkdownEditing][github]
+![github]
 
   [Dark][github 2] and [yellow][github 3] theme available.
 
