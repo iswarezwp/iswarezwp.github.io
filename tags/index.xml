@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 1602</title>
-    <link>iswarezwp.github.io/tags/</link>
+    <link>https://iswarezwp.github.io/tags/</link>
     <description>Recent content in Tags on 1602</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 06 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="iswarezwp.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://iswarezwp.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>日记</title>
-      <link>iswarezwp.github.io/tags/%E6%97%A5%E8%AE%B0/</link>
+      <link>https://iswarezwp.github.io/tags/%E6%97%A5%E8%AE%B0/</link>
       <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>iswarezwp.github.io/tags/%E6%97%A5%E8%AE%B0/</guid>
+      <guid>https://iswarezwp.github.io/tags/%E6%97%A5%E8%AE%B0/</guid>
       <description></description>
     </item>
     
