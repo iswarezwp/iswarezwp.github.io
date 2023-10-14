@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1602</title>
-    <link>https://iswarezwp.github.io/</link>
-    <description>Recent content on 1602</description>
+    <title>作文 on 1602</title>
+    <link>https://iswarezwp.github.io/tags/%E4%BD%9C%E6%96%87/</link>
+    <description>Recent content in 作文 on 1602</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 06 Oct 2023 15:38:19 +0800</lastBuildDate><atom:link href="https://iswarezwp.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>2023国庆日记：小蓝丢失记</title>
-      <link>https://iswarezwp.github.io/zhangyihe/2023/10/06/01.html</link>
-      <pubDate>Fri, 06 Oct 2023 15:38:19 +0800</pubDate>
-      
-      <guid>https://iswarezwp.github.io/zhangyihe/2023/10/06/01.html</guid>
-      <description>今天早晨吃饭的时候出大事了。 我家养了两只鸟，一只叫小蓝一只叫小青，小蓝非常好动，总是跳来跳去。而小青正好相反，安安静静地站在杆子上一动不动。</description>
-    </item>
-    
+    <lastBuildDate>Tue, 22 Feb 2022 14:21:13 +0800</lastBuildDate><atom:link href="https://iswarezwp.github.io/tags/%E4%BD%9C%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>我的心爱之物--地球仪</title>
       <link>https://iswarezwp.github.io/zhangyihe/2020/11/15/01.html</link>
@@ -50,15 +41,6 @@
       
       <guid>https://iswarezwp.github.io/zhangyihe/2020/10/14/01.html</guid>
       <description>从前，有一棵小树有无穷无尽的心思。 第一天，小树的心思是：每年秋天，我的头发就会不停地往下掉，直到掉光为止。我的头发能在来年春天重新长出来吗？</description>
-    </item>
-    
-    <item>
-      <title>笔记归档</title>
-      <link>https://iswarezwp.github.io/archive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://iswarezwp.github.io/archive/</guid>
-      <description></description>
     </item>
     
   </channel>
